@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--<h1 align="center">Hey Everyone 👋, I'm MOHAMMED ABDUL MAJEED</h1>
+<h1 align="center">Hey Everyone 👋, I'm MOHAMMED ABDUL MAJEED</h1>
 
 <p align="center">
   <!-- <img src="https://github.com/ShahhNasir/ShahhNasir/blob/main/Youtube%20Channel%20Banner.png" alt="Banner"> -->
@@ -8,7 +8,7 @@
 
 <h3 align="center">
   A passionate <span style="color:#0073e6;">Data Scientist</span> and 
-  <span style="color:#f39c12;">Machine Learning Engineer</span> from Kashmir, specializing in data analysis, machine learning, and data visualization.
+  <span style="color:#f39c12;">Machine Learning Engineer</span> , specializing in data analysis, machine learning, and data visualization.
 </h3>
 
 ---
